@@ -61,4 +61,15 @@ If any errors or bugs occur use Chrome DevTools or please email me, <agatakolohe
 
 This software is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-Copyright (c) 2020 Agata Kolodziej
+Copyright (c) 2020 
+
+* _Once cloned, use the "$ cd " command to navigate to the directory created in the previous step._
+* _You must have .NET Core V2.2 installed in order to run the console app successfully. If you do not have .NET Core V2.2 installed, find more information and download it [here](https://dotnet.microsoft.com/download/dotnet-core/2.2)_
+* _Once in the newly cloned directory, enable the project to test successfully by running "dotnet restore" within _______________both directories found at the root level of the project directory._
+* _To test specs outlined in the project's testing suite, navigate to the _________ directory in your command line and run "dotnet test"_
+* _To run the console application, enter "dotnet run" in your command line while in the _______ directory._
+
+## Technologies used
+- C# v 7.3
+- .NET Core v 2.2
+- dotnet script, REPL
