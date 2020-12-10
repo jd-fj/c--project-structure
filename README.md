@@ -73,3 +73,14 @@ Copyright (c) 2020
 - C# v 7.3
 - .NET Core v 2.2
 - dotnet script, REPL
+
+├── ProjectName
+│          ├── Models
+                  ------scrabblescorer.cs
+│          ├── Program.cs
+│          └── ProjectName.csproj
+├── ProjectName.Tests
+│          ├── ModelTests
+│          └── ProjectName.Tests.csproj
+├── .gitignore
+└── README.md
